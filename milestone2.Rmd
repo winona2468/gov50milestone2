@@ -1,0 +1,14 @@
+---
+title: "Milestone 2"
+author: "Winona Guo"
+date: "9/21/2020"
+output: html_document
+---
+
+My Github repo lives [here](https://github.com/winona2468/gov50milestone2.git).
+
+Since my final project will likely center about climate change, I looked at two projects related to the climate.
+
+The first was Naina Tejani's "It's Not a Myth: Climate Change and its Related Factors." One pro is that the page is very interactive. It was so cool to click on a particular year of interest (ex. my birth year, 1999) and see the heat map. Another pro is that so many countries were included to describe the relationship between oil and CO2 emissions, making this project accessible globally. Some of the cons were that I couldn't tell too much about the author or more about the project from the "About" page. I had to go back to the repository of projects to find Naina's name. Taken on its own, the project might not seem as legitimate without that information. Another con is that under the "What causes it?" tab, only two variables were analyzed. For such a large question (what causes climate change), more interesting variables could probably have enhanced the project (ex. consumer patterns).
+
+The second project I looked at was Isheka Agarwal's "Perspective on Historical and Future Consequences of Climate Change." I loved that the author even created a VIDEO to describe her project—that's awesome! Another pro is that the path was so well-explained, with both interactive graphs AND explanations of what I should be interpreting from the graphs. This supported her argument well. In terms of cons, the data is the "climate change beliefs" tab could probably be expanded (which seems particularly pertinent to her subject). It only includes one graph for one year, and I'm really interested in results for multiple years, for example. In addition, on the models tab, I read: "I wanted to explore if population affects people's opinions about climate change." I would love to have read more about why she chose population and not other variables. Thought it is an interesting x variable, others (especially ones which yielded a correlation) may have been more fruitful to the topic of "Perspective on Historical and Future Consequences of Climate Change," especially when many people's opinions are impacted by news and social media in ways that aren't dependent on local geographical population.
